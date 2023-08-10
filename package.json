@@ -1,6 +1,6 @@
 {
   "name": "npm-private-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "基于Verdaccio搭建的npm私有库",
   "main": "index.js",
   "scripts": {
